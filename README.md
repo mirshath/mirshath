@@ -40,11 +40,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ABOUT -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- ABOUT ME -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -57,7 +52,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="About Me Typing"/>
 
-<br><br>
+<br>
 
 <table>
 <tr>
