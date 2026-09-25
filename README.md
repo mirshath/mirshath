@@ -401,11 +401,11 @@ Explore my repositories to see more experiments, applications and open-source wo
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:mirshath.mmm@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://mirshath-portfolio.netlify.app/">
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="55"/>
 </a>
 
