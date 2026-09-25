@@ -383,22 +383,6 @@ Explore my repositories to see more experiments, applications and open-source wo
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- GITHUB TROPHIES -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mirshath&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- CONNECT -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
