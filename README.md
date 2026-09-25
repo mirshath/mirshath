@@ -43,6 +43,11 @@
 <!-- ABOUT ME -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ABOUT ME -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=3&width=100%25" width="100%"/>
 
@@ -52,7 +57,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="About Me Typing"/>
 
-<br>
+<br><br>
 
 <table>
 <tr>
@@ -69,13 +74,14 @@ I love working across the entire development lifecycle — from designing interf
 
 ### 🚀 What I Do
 
-🔹 Build **modern & responsive web applications**
-🔹 Design **clean and scalable architectures**
-🔹 Develop **REST APIs & backend systems**
-🔹 Work with **SQL & NoSQL databases**
-🔹 Explore **Cloud, DevOps & AI technologies**
-🔹 Experiment with **new tools and technologies**
-🔹 Contribute to **open-source projects**
+* 💻 Build **modern and responsive web applications**
+* 🧩 Develop **clean and scalable software architectures**
+* ⚙️ Build **REST APIs and backend systems**
+* 🗄️ Design and work with **SQL & NoSQL databases**
+* 🚀 Create **reliable and maintainable applications**
+* ☁️ Explore **Cloud and DevOps technologies**
+* 🤖 Experiment with **AI and emerging technologies**
+* 🌍 Learn, contribute and collaborate in **Open Source**
 
 </td>
 
@@ -83,27 +89,37 @@ I love working across the entire development lifecycle — from designing interf
 
 <div align="center">
 
-### ⚡ Developer Mindset
-
-```text
-┌──────────────────────────┐
-│                          │
-│   💡 THINK              │
-│      ↓                   │
-│   🧩 BUILD              │
-│      ↓                   │
-│   🧪 TEST               │
-│      ↓                   │
-│   🚀 DEPLOY             │
-│      ↓                   │
-│   📈 IMPROVE            │
-│                          │
-└──────────────────────────┘
-```
+### ⚡ Quick Overview
 
 <br>
 
-**Code → Create → Learn → Repeat**
+**💻 Role**
+
+Full-Stack Developer
+
+<br><br>
+
+**🎯 Focus**
+
+Web Development
+
+<br><br>
+
+**☁️ Exploring**
+
+Cloud • DevOps • AI
+
+<br><br>
+
+**🌱 Mindset**
+
+Learn • Build • Improve
+
+<br><br>
+
+**🌍 Based In**
+
+Sri Lanka 🇱🇰
 
 </div>
 
@@ -114,9 +130,9 @@ I love working across the entire development lifecycle — from designing interf
 
 <br>
 
-<!-- CURRENT FOCUS -->
+<h3 align="center">🔥 Currently Focused On</h3>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" align="center">
@@ -144,41 +160,6 @@ Learning, contributing and building with the developer community.
 </td>
 
 </tr>
-</table>
-
-<br>
-
-<!-- QUICK FACTS -->
-
-<h3 align="center">🔥 Quick Facts</h3>
-
-<table align="center">
-
-<tr>
-<td>🎯 Focus</td>
-<td><b>Full-Stack Development</b></td>
-</tr>
-
-<tr>
-<td>🌱 Learning</td>
-<td><b>Cloud • DevOps • AI</b></td>
-</tr>
-
-<tr>
-<td>🛠️ Building</td>
-<td><b>Scalable Web Applications</b></td>
-</tr>
-
-<tr>
-<td>💡 Passion</td>
-<td><b>Technology • Problem Solving • Innovation</b></td>
-</tr>
-
-<tr>
-<td>🌍 Location</td>
-<td><b>Sri Lanka 🇱🇰</b></td>
-</tr>
-
 </table>
 
 <br>
