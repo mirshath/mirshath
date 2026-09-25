@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Mirshath
 
-<!--
-**mirshath/mirshath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Open Source Enthusiast
+🚀 Building useful and scalable applications
+🌱 Currently learning: Cloud, DevOps & AI
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend
+HTML • CSS • JavaScript • React • Next.js
+
+Backend
+Node.js • Express • Python
+
+Database
+MySQL • PostgreSQL • MongoDB
+
+Tools
+Git • GitHub • Docker • VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+📌 Project One
+Short description of what it does.
+
+📌 Project Two
+Short description of what it does.
+
+📌 Project Three
+Short description of what it does.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Activity
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 Connect With Me
+
+LinkedIn | Portfolio | Email
