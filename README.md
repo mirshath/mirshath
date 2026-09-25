@@ -43,11 +43,6 @@
 <!-- ABOUT ME -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ABOUT ME -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=3&width=100%25" width="100%"/>
 
@@ -57,7 +52,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="About Me Typing"/>
 
-<br><br>
+<br>
 
 <table>
 <tr>
