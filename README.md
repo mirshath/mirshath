@@ -389,41 +389,48 @@ Explore my repositories to see more experiments, applications and open-source wo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=3&width=100%25" width="100%"/>
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E50914&labelColor=000000"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55"/>
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E50914&labelColor=000000"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914&labelColor=000000"/>
-</a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mirshath">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D0D0D?style=for-the-badge&logo=github&logoColor=E50914&labelColor=000000"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="55"/>
 </a>
 
-<br>
+<br><br>
 
 ### 💬 Let's Build Something Amazing Together
 
+<p>
+I'm always open to connecting, collaborating, learning and building<br>
+interesting projects with other developers and creators.
+</p>
+
 <br>
 
-<i>⭐ Thanks for visiting my profile — feel free to explore my repositories!</i>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=2&width=45%25" width="45%"/>
 
-<br>
+<br><br>
+
+<i>⭐ Thanks for stopping by — feel free to explore my repositories!</i>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mirshath&label=PROFILE+VIEWS&color=E50914&style=for-the-badge&labelColor=000000"/>
 
 </div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
