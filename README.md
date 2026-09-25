@@ -116,16 +116,8 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 ### ⚙️ Backend
 
 <br>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" height="65"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Express.js-0D0D0D?style=for-the-badge&logo=express&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E50914"/>
-
-<br><br><br>
+<br>
 
 ### 🗄️ Database
 
@@ -135,24 +127,12 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=E50914"/>
-
-<br><br><br>
-
 ### 🔧 Tools & DevOps
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" height="65"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=E50914"/>
 
 </div>
 
