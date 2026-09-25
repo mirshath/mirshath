@@ -111,15 +111,6 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" height="65"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/?style=for-the-badge&logo=html5&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=E50914"/>
-
 <br><br><br>
 
 ### ⚙️ Backend
