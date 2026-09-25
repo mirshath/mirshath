@@ -61,38 +61,36 @@
   <tr>
     <td width="50%">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirshath&repo=project-one&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirshath&repo=project-one&theme=default&hide_border=true" />
       </a>
     </td>
     <td width="50%">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirshath&repo=project-two&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirshath&repo=project-two&theme=default&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirshath&repo=project-three&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirshath&repo=project-three&theme=default&hide_border=true" />
       </a>
     </td>
     <td width="50%"></td>
   </tr>
 </table>
 
-> 💡 Replace `Mirshath` and the repo names above with your actual GitHub username and repository names so these pinned cards render correctly.
-
 <br>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirshath&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirshath&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mirshath&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirshath&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirshath&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirshath&theme=default&hide_border=true" />
 </p>
 
 <br>
@@ -106,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mirshath&label=Profile%20Views&color=2E9EF7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mirshath&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos!</i></p>
