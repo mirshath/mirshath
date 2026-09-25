@@ -110,6 +110,8 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" height="65"/>
 <br>
+<br>
+
 ### ⚙️ Backend
 
 <br>
