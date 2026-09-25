@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E50914&background=0D0D0D00&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;Full-Stack+Developer;Open+Source+Enthusiast;Learning+Cloud+%7C+DevOps+%7C+AI;Turning+Ideas+Into+Digital+Products" alt="Typing SVG"/>
 
-<br><br>
+<br>
 
 <a href="#">
 <img src="https://img.shields.io/badge/📍_SRI_LANKA-0D0D0D?style=for-the-badge&labelColor=E50914&color=0D0D0D"/>
