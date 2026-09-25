@@ -43,56 +43,163 @@
 <!-- ABOUT -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ABOUT ME -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=3&width=100%25" width="100%"/>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="About Me Typing"/>
+
+<br><br>
+
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### Hey! I'm Mirshath 👋
+<td width="60%" valign="top">
 
-I'm a **Full-Stack Developer** passionate about building modern, scalable and user-focused applications.
+### 👋 Hey, I'm Mirshath!
 
-I enjoy turning ideas into real-world products and continuously exploring new technologies across **Web Development, Cloud, DevOps and AI**.
+I'm a **Full-Stack Developer** who enjoys transforming ideas into **clean, scalable and meaningful digital experiences**.
+
+I love working across the entire development lifecycle — from designing interfaces and building APIs to working with databases, deployment and everything in between.
 
 <br>
 
-🔭 **Currently building** scalable applications
-🌱 **Currently learning** Cloud, DevOps & AI
-💡 **Interested in** Open Source & Modern Web Technologies
-🚀 **Goal** Build impactful digital products
+### 🚀 What I Do
+
+🔹 Build **modern & responsive web applications**
+🔹 Design **clean and scalable architectures**
+🔹 Develop **REST APIs & backend systems**
+🔹 Work with **SQL & NoSQL databases**
+🔹 Explore **Cloud, DevOps & AI technologies**
+🔹 Experiment with **new tools and technologies**
+🔹 Contribute to **open-source projects**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
+
+<div align="center">
+
+### ⚡ Developer Mindset
 
 ```text
-╔══════════════════════════════╗
-║      DEVELOPER PROFILE       ║
-╠══════════════════════════════╣
-║                              ║
-║  ⚡ Full-Stack Development   ║
-║  🧠 Problem Solving          ║
-║  🚀 Product Building         ║
-║  ☁️ Cloud & DevOps           ║
-║  🤖 AI Exploration           ║
-║  🌍 Open Source              ║
-║                              ║
-╚══════════════════════════════╝
+┌──────────────────────────┐
+│                          │
+│   💡 THINK              │
+│      ↓                   │
+│   🧩 BUILD              │
+│      ↓                   │
+│   🧪 TEST               │
+│      ↓                   │
+│   🚀 DEPLOY             │
+│      ↓                   │
+│   📈 IMPROVE            │
+│                          │
+└──────────────────────────┘
 ```
 
+<br>
+
+**Code → Create → Learn → Repeat**
+
+</div>
+
 </td>
+
 </tr>
 </table>
+
+<br>
+
+<!-- CURRENT FOCUS -->
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Development
+
+Building scalable applications with modern web technologies.
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ Exploration
+
+Learning Cloud, DevOps, AI and modern infrastructure.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌍 Open Source
+
+Learning, contributing and building with the developer community.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- QUICK FACTS -->
+
+<h3 align="center">🔥 Quick Facts</h3>
+
+<table align="center">
+
+<tr>
+<td>🎯 Focus</td>
+<td><b>Full-Stack Development</b></td>
+</tr>
+
+<tr>
+<td>🌱 Learning</td>
+<td><b>Cloud • DevOps • AI</b></td>
+</tr>
+
+<tr>
+<td>🛠️ Building</td>
+<td><b>Scalable Web Applications</b></td>
+</tr>
+
+<tr>
+<td>💡 Passion</td>
+<td><b>Technology • Problem Solving • Innovation</b></td>
+</tr>
+
+<tr>
+<td>🌍 Location</td>
+<td><b>Sri Lanka 🇱🇰</b></td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:E50914&height=2&width=65%25" width="65%"/>
+
+<br>
+
+<i>
+"Build things that solve problems. Learn things that make you better."
+</i>
 
 </div>
 
 <br>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
