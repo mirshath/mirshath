@@ -108,11 +108,6 @@ Cloud • DevOps • AI
 
 Learn • Build • Improve
 
-<br>
-
-**🌍 Based In**
-
-Sri Lanka 🇱🇰
 
 </div>
 
