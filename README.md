@@ -114,7 +114,7 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/?style=for-the-badge&logo=html5&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E50914"/>
