@@ -254,7 +254,7 @@ Learning, contributing and building with the developer community.
 
 `React` `Node.js` `MongoDB`
 
-<br><br>
+<br>
 
 <a href="#">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-E50914?style=for-the-badge&labelColor=E50914&color=000000"/>
@@ -278,7 +278,7 @@ Learning, contributing and building with the developer community.
 
 `Next.js` `Python` `PostgreSQL`
 
-<br><br>
+<br>
 
 <a href="#">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-E50914?style=for-the-badge&labelColor=E50914&color=000000"/>
@@ -306,7 +306,7 @@ Learning, contributing and building with the developer community.
 
 `JavaScript` `Express` `MySQL`
 
-<br><br>
+<br>
 
 <a href="#">
 <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-E50914?style=for-the-badge&labelColor=E50914&color=000000"/>
