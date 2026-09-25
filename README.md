@@ -152,8 +152,6 @@ I enjoy turning ideas into real-world products and continuously exploring new te
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,linux,githubactions,python&theme=dark" height="65"/>
 
-<br><br>
-
 `☁️ Cloud`    `⚙️ DevOps`    `🤖 AI`    `🐳 Containers`    `🚀 CI/CD`
 
 </div>
