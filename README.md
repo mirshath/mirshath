@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E50914&labelColor=000000"/>
 </a>
 
-<a href="#">
+<a href="https://mirshath-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E50914&labelColor=000000"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:mirshath.mmm@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914&labelColor=000000"/>
 </a>
 
