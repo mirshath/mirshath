@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914&labelColor=000000"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=mirshath&label=PROFILE+VIEWS&color=E50914&style=for-the-badge&labelColor=000000"/>
 
