@@ -409,7 +409,7 @@ Explore my repositories to see more experiments, applications and open-source wo
 <img src="https://img.shields.io/badge/GitHub-Follow-0D0D0D?style=for-the-badge&logo=github&logoColor=E50914&labelColor=000000"/>
 </a>
 
-<br><br>
+<br>
 
 ### 💬 Let's Build Something Amazing Together
 
@@ -417,7 +417,7 @@ Explore my repositories to see more experiments, applications and open-source wo
 
 <i>⭐ Thanks for visiting my profile — feel free to explore my repositories!</i>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=mirshath&label=PROFILE+VIEWS&color=E50914&style=for-the-badge&labelColor=000000"/>
 
