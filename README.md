@@ -409,7 +409,7 @@ Explore my repositories to see more experiments, applications and open-source wo
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="55"/>
 </a>
 
-<br><br>
+<br>
 
 ### 💬 Let's Build Something Amazing Together
 
@@ -422,11 +422,11 @@ interesting projects with other developers and creators.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:0D0D0D&height=2&width=45%25" width="45%"/>
 
-<br><br>
+<br>
 
 <i>⭐ Thanks for stopping by — feel free to explore my repositories!</i>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=mirshath&label=PROFILE+VIEWS&color=E50914&style=for-the-badge&labelColor=000000"/>
 
