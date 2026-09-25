@@ -70,8 +70,6 @@ I'm a **Full-Stack Developer** who enjoys transforming ideas into **clean, scala
 
 I love working across the entire development lifecycle — from designing interfaces and building APIs to working with databases, deployment and everything in between.
 
-<br>
-
 ### 🚀 What I Do
 
 * 💻 Build **modern and responsive web applications**
@@ -97,25 +95,25 @@ I love working across the entire development lifecycle — from designing interf
 
 Full-Stack Developer
 
-<br><br>
+<br>
 
 **🎯 Focus**
 
 Web Development
 
-<br><br>
+<br>
 
 **☁️ Exploring**
 
 Cloud • DevOps • AI
 
-<br><br>
+<br>
 
 **🌱 Mindset**
 
 Learn • Build • Improve
 
-<br><br>
+<br>
 
 **🌍 Based In**
 
